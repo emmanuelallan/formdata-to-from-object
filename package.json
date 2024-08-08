@@ -1,0 +1,26 @@
+{
+  "name": "formdata-utils",
+  "version": "1.0.0",
+  "description": "A utility library to convert FormData to and from JavaScript objects.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emmanuelallan/formdata-utils.git"
+  },
+  "keywords": [
+    "formdata",
+    "typescript",
+    "utility",
+    "library"
+  ],
+  "author": "Emmanuel Allan",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.0.0"
+  }
+}
