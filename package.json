@@ -1,5 +1,5 @@
 {
-  "name": "formdata-utils",
+  "name": "formdata-object-utils",
   "version": "1.0.0",
   "description": "A utility library to convert FormData to and from JavaScript objects.",
   "main": "dist/index.js",
@@ -14,9 +14,9 @@
   },
   "keywords": [
     "formdata",
-    "typescript",
-    "utility",
-    "library"
+    "form-data-to-object",
+    "form-data-objects",
+    "formdata-object-utils"
   ],
   "author": "Emmanuel Allan",
   "license": "MIT",

@@ -5,7 +5,7 @@ A utility library to convert FormData to and from JavaScript objects.
 ### Installation
 
 ```bash
-npm install formdata-utils```
+npm install formdata-object-utils```
 
 
 ### Usage
@@ -13,7 +13,7 @@ npm install formdata-utils```
 Importing the library
 
 ```ts
-import FormDataUtils from 'formdata-utils';
+import FormDataUtils from 'formdata-object-utils';
 ```
 
 ### Converting FormData to an Object
